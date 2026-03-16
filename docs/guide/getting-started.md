@@ -47,4 +47,4 @@ See [Build your own app](/guide/build-your-own-app) for details and for customiz
 | `packages/create-app` | Scaffolder: `npm create @eclipse-lyra/app` generates a new app elsewhere. |
 | Root | Scripts: `dev`, `build`, `build:app`, `test`, `docs:dev`, `docs:build`. |
 
-Next: [Build your own app](build-your-own-app) or [Concepts: Architecture](docs/concepts/architecture).
+Next: [Build your own app](/guide/build-your-own-app) or [Concepts: Architecture](/guide/concepts/architecture).
